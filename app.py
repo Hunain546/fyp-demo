@@ -49,7 +49,7 @@ st.write("## 📥 Enter Your Question")
 user_query = st.text_input(f"Enter your {subject} question below", placeholder="Type your question here...")
 
 # Search Functionality
-if st.button("🔍 Search Past Papers"):
+if st.button("🔍 Ask AI"):
     if user_query:
         st.markdown("## 📄 Question Details")
         # Determine the endpoint based on the selected subject
