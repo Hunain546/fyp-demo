@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 
 # API Configuration
-API_BASE_URL = "https://f9c4e0d1-a0ef-428f-ac08-419a8a7b2a56-00-1ufezh4ntjwmk.sisko.replit.dev"  # Replace with your FastAPI server's URL
+API_BASE_URL = "https://f72bb0a5-4629-404d-b8d2-a0647a699b54-00-201fwkudwmvrn.pike.replit.dev"  # Replace with your FastAPI server's URL
 
 # Page Configuration
 st.set_page_config(page_title="O/Adapt - AI Learning Assistant", page_icon="📝", layout="wide")
